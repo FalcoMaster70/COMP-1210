@@ -1,2 +1,2 @@
 # COMP-1210
-My Fundamental Computing class at Auburn University
+My Fundamentals of Computing 1 class at Auburn University
